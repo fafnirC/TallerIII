@@ -1,0 +1,13 @@
+x,y,width,height,name
+250,150,20,55,Hombres
+320,260,20,44,Mujeres
+400,695,20,2,Intersexuales
+920,287,20,41,Edad20y30
+980,387,20,31,Edad30y40
+1040,487,20,21,Edad40y60
+500,377,20,32,Trabajador
+580,417,20,28,Freelancers
+660,447,20,25,Estudiantes
+740,237,20,46,EduUniversitaria
+800,507,20,19,EduTecnologo
+860,537,20,16,EduSecundaria
